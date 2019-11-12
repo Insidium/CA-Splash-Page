@@ -178,7 +178,7 @@ html, body {
     will-change: transform;
   }
 
-  /* BOOTSTRAP PADDING RESOLVE */
+  /* BOOTSTRAP PADDING */
 
   [class*="col-"] {
       padding: 1rem;
@@ -212,7 +212,6 @@ hr.light-100 {
 
 @media (max-width: 992px){
     .social a{
-        font-size:4em;
         padding: 2rem;
     }
 }
@@ -242,7 +241,6 @@ hr.light-100 {
     }
 
     .social a {
-        font-size: 2.5em;
         padding: 1.2rem;
     }
 }
@@ -274,7 +272,6 @@ hr.light-100 {
     }
 
     .social a {
-        font-size: 2em;
         padding: .7rem;
     }
 
