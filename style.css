@@ -31,6 +31,8 @@ html, body {
     height: 100%;
 }
 
+/* FIREFOX BUG RESOLVE */
+
 .carousel-caption {
     position: center;
     top: 50%;
@@ -175,6 +177,8 @@ html, body {
             transform: translateZ(0);
     will-change: transform;
   }
+
+  /* BOOTSTRAP PADDING RESOLVE */
 
   [class*="col-"] {
       padding: 1rem;
